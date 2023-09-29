@@ -82,7 +82,6 @@ body.fotos #navegacao a#fotos {
     width: 180px;
     float: left;
     margin: 0 0 20px -750px;
-    background: yellow;
 }
 
 #tres-colunas #primario {
@@ -111,6 +110,28 @@ body.fotos #navegacao a#fotos {
     float: left;
     margin: 0 0 20px 15px;
     background: green;
+}
+
+/* Caixa */
+
+.caixa {
+    margin: 10px 0;
+    padding: 5px;
+    background: #e2e2e2 url(../assets/fundo-caixa.png);
+}
+
+h2 {
+    font-size: 1em;
+    background: #294c71;
+    color: white;
+    padding: 5px;
+}
+
+.caixa-conteudo {
+    background: #fff;
+    padding: 5px;
+    margin-top: 5px;
+
 }
 
 /* Rodapé */

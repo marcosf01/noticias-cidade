@@ -84,32 +84,25 @@ body.fotos #navegacao a#fotos {
     margin: 0 0 20px -750px;
 }
 
-#tres-colunas #primario {
+#primario {
     width: 270px;
     float: left;
     margin: 0 0 20px 195px;
-    background: blue;
 }
 
 #duas-colunas #primario {
     width: 555px;
-    float: left;
-    margin: 0 0 20px 195px;
-    background: blue;
 }
 
 #uma-coluna #primario {
     width: 750px;
-    float: left;
     margin: 0 0 20px 0px;
-    background: blue;
 }
 
 #secundario {
     width: 270px;
     float: left;
     margin: 0 0 20px 15px;
-    background: green;
 }
 
 /* Caixa */
@@ -171,6 +164,32 @@ input.submit {
     border: 2px solid #870529;
     margin-top: 5px;
 }
+
+/* Formatar imagens */
+
+img.imagem-principal {
+    width: 98%;
+    border: 3px solid #e2e2e2;
+}
+
+/* Formatar cabeçalhos */
+
+h3 {
+    text-transform: uppercase;
+    display: inline;
+    font-size: 0.8em;
+    padding: 3px;
+}
+
+.destaque h3 {
+    background: #b10333;
+    color: #fff;
+} 
+
+.entrevista h3 {
+    background: #de003e;
+    color: #fff;
+} 
 
 /* Rodapé */
 

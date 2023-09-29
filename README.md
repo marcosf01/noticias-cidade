@@ -9,7 +9,7 @@ Desenvolvimento de um site de notícias, visando colocar em prática meus conhec
 - CSS
 
 ## :mag_right: Veja de perto
- https://marcosf01.github.io/noticias-cidade/ <br>
+ https://noticias-cidade-khaki.vercel.app/index.html <br>
 O projeto foi elaborado para web. Mas em breve, será responsivo.
 
 <br>
